@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>ToeTally</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>ToeTally</h1>
+      <div class="status" id="status">X's turn</div>
+      <div class="board" id="board">
+        <!-- Create the 3x3 grid -->
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+        <div class="cell" onclick="makeMove(this)"></div>
+      </div>
+    </div>
+    <button id="new-game" onclick="resetGame()">New Game</button>
+
+    <div class="toast" id="toast">
+      <div class="toast-content" id="toast-content"></div>
+    </div>
+  </body>
+  <script src="service-worker.js"></script>
+  <script src="script.js"></script>
+</html>
