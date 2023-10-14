@@ -1,6 +1,12 @@
-# ToeTally
+# [ToeTally]() 
 
-![Tic-Tac-Toe Screenshot](screenshot.png)
+<div align='center'>
+
+<img width="346" alt="Screenshot 2023-10-14 at 6 44 31 PM" src="https://github.com/vishakh-abhayan/Wwar/assets/94307781/db56edbe-7976-49ca-9940-b95c31d72b62">
+
+</div>
+
+<br/>
 
 This is a simple implementation of the classic Tic-Tac-Toe game with added features, including a progressive web app (PWA) setup. The game is built using HTML, CSS, and JavaScript.
 
@@ -42,3 +48,5 @@ You can customize the game by modifying the HTML, CSS, and JavaScript files. You
 This project is open source and available under the [MIT License](LICENSE.md).
 
 Enjoy playing ToeTally
+
+---
