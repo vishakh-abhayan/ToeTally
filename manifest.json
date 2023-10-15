@@ -7,6 +7,11 @@
     "description": "The classic Tic-Tac-Toe game",
     "icons": [
       {
+        "src": "/assets/icons8-xo-game-others-96.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
         "src": "/assets/icons8-xo-game-others-32.png",
         "sizes": "32×32",
         "type": "image/png",
