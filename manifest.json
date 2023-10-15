@@ -1,0 +1,36 @@
+{
+  "registerType": "prompt",
+  "includeAssets": ["favicon.ico", "/assets/icons8-xo-game-others-96.png"],
+  "manifest": {
+    "name": "",
+    "short_name": "ToeTally",
+    "description": "The classic Tic-Tac-Toe game",
+    "icons": [
+      {
+        "src": "/assets/icons8-xo-game-others-32.png",
+        "sizes": "32×32",
+        "type": "image/png",
+        "density": ".5"
+      },
+      {
+        "src": "/assets/icons8-xo-game-others-72.png",
+        "sizes": "72×72",
+        "type": "image/png",
+        "density": "1.5"
+      },
+      {
+        "src": "/assets/icons8-xo-game-others-96.png",
+        "sizes": "96×96",
+        "type": "image/png",
+        "density": "2.0",
+        "purpose": "maskable"
+      }
+    ],
+    "theme_color": "#0000",
+    "background_color": "#fffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "orientation": "portrait"
+  }
+}
