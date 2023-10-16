@@ -9,7 +9,7 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game with added features, including a progressive web app (PWA) setup. The game is built using HTML, CSS, and JavaScript.
 
-<a href="https://www.producthunt.com/posts/toetally?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-toetally" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419969&theme=light" alt="ToeTally - The&#0032;classic&#0032;Tic&#0045;Tac&#0045;Toe&#0032;game | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/toetally?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-toetally" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419969&theme=dark" alt="ToeTally - The&#0032;classic&#0032;Tic&#0045;Tac&#0045;Toe&#0032;game | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 </div>
 
