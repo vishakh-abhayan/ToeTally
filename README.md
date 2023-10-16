@@ -2,7 +2,8 @@
 
 <div align='center'>
 
-<img width="346" alt="Screenshot 2023-10-14 at 6 44 31 PM" src="https://github.com/vishakh-abhayan/Wwar/assets/94307781/db56edbe-7976-49ca-9940-b95c31d72b62">
+![toetally](https://github.com/vishakh-abhayan/ToeTally/assets/94307781/223db972-9d79-40e2-a780-6e37e058301e)
+
 
 
 <a href="https://www.producthunt.com/posts/toetally?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-toetally" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419969&theme=light" alt="ToeTally - The&#0032;classic&#0032;Tic&#0045;Tac&#0045;Toe&#0032;game | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
